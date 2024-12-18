@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("binary-search")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06bd21e76e7a0b9d6f91393a38d9a4ed0fb6d991")]
 [assembly: System.Reflection.AssemblyProductAttribute("binary-search")]
 [assembly: System.Reflection.AssemblyTitleAttribute("binary-search")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
